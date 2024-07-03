@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300;400;600;800&display=swap');
+
+body {
+    margin: 0;
+    font-family: 'Nunito', sans-serif;
+    height: 100%;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Ensure all elements inherit box-sizing for better layout control */
+*, *::before, *::after {
+    box-sizing: inherit;
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+.form-control {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+/* Responsive button padding and font-size */
+.poetry-generator-button {
+    background: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background 0.3s ease;
+    font-size: 1rem;
+}
+
+.poetry-generator-button:hover {
+    background: #45a049;
+}
+
+.poem-text {
+    white-space: pre-wrap;
+    text-align: left;
+}
+
+/* Container to center content and apply max width */
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+
+/* Responsive form container adjustments */
+.poetry-generator-form-container {
+    margin-bottom: 16px;
+    padding: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background: #f9f9f9;
+}
+
+/* Responsive content adjustments */
+.poetry-generator-content {
+    padding: 16px;
+    background: #fff;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+@media (max-width: 1024px) {
+    .poetry-generator-form-container,
+    .poetry-generator-content {
+        padding: 12px;
+    }
+
+    .poetry-generator-button {
+        font-size: 0.9rem;
+        padding: 8px 16px;
+    }
+}
+
+@media (max-width: 768px) {
+    .poetry-generator-form-container,
+    .poetry-generator-content {
+        padding: 10px;
+    }
+
+    .poetry-generator-button {
+        font-size: 0.85rem;
+        padding: 7px 14px;
+    }
+}
+
+@media (max-width: 600px) {
+    .poetry-generator-form-container {
+        margin-bottom: 16px;
+        padding: 8px;
+    }
+
+    .poetry-generator-content {
+        padding: 8px;
+    }
+
+    .poetry-generator-button {
+        font-size: 0.8rem;
+        padding: 6px 12px;
+    }
+}
