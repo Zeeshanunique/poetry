@@ -2,7 +2,7 @@
 
 Welcome to **PoetryEtry** – a platform dedicated to showcasing and exploring poetry from around the world.
 
-![PoetryEtry](https://poetryetry.vercel.app/logo.png)
+![PoetryEtry]([https://poetryetry.vercel.app/logo.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.niehs.nih.gov%2Fhealth%2Ftopics%2Fagents%2Fair-pollution&psig=AOvVaw0Nm_Nl-fn-nDkR9EZj09kh&ust=1720087872010000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKD30ejQiocDFQAAAAAdAAAAABAE))
 
 ## Table of Contents
 
