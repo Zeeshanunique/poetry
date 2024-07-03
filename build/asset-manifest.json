@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Zeeshanunique/static/css/main.3e202179.css",
+    "main.js": "/Zeeshanunique/static/js/main.02d5523c.js",
+    "static/js/821.639a5f65.chunk.js": "/Zeeshanunique/static/js/821.639a5f65.chunk.js",
+    "static/js/13.74161cc8.chunk.js": "/Zeeshanunique/static/js/13.74161cc8.chunk.js",
+    "static/js/331.e3616237.chunk.js": "/Zeeshanunique/static/js/331.e3616237.chunk.js",
+    "static/js/567.eca64009.chunk.js": "/Zeeshanunique/static/js/567.eca64009.chunk.js",
+    "static/js/453.292c052f.chunk.js": "/Zeeshanunique/static/js/453.292c052f.chunk.js",
+    "index.html": "/Zeeshanunique/index.html",
+    "main.3e202179.css.map": "/Zeeshanunique/static/css/main.3e202179.css.map",
+    "main.02d5523c.js.map": "/Zeeshanunique/static/js/main.02d5523c.js.map",
+    "453.292c052f.chunk.js.map": "/Zeeshanunique/static/js/453.292c052f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e202179.css",
+    "static/js/main.02d5523c.js"
+  ]
+}
