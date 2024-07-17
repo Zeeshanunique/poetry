@@ -96,6 +96,7 @@ const PoetryForm = ({
           >
             <MenuItem value="Bergamo">Bergamo</MenuItem>
             <MenuItem value="Treviglio">Treviglio</MenuItem>
+            <MenuItem value="Bizerte">Bizerte</MenuItem>
           </TextField>
         </Grid>
         <Grid item xs={12} sm={6}>
