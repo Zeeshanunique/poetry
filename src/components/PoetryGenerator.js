@@ -29,6 +29,10 @@ const PoetryGenerator = () => {
       dataFile = "pollution_data_trevigliopm10.json";
     } else if (city === "Treviglio" && pollutant === "pm2.5") {
       dataFile = "pollution_data_trevigliopm25.json";
+    }else if (city === "Bizerte" && pollutant === "pm10") {
+      dataFile = "pollution_data_trevigliopm10.json";
+    } else if (city === "Bizerte" && pollutant === "pm2.5") {
+      dataFile = "pollution_data_trevigliopm25.json";
     }
 
     if (dataFile) {
